@@ -12,8 +12,17 @@
     <div class="container">
         <h1>Blade Components</h1>
 
-        <x-test />
-        <x-folder.hello />
+        <!-- Chamada de componente -->
+
+        <!-- Passagem de parâmetros -->
+
+        <!-- Inserindo atributos ao componente -->
+
+        <!-- Trabalhando com slots -->
+
+        <!-- Inline Component Views -->
+
+        <!-- Componentes Anônimos -->
     </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
